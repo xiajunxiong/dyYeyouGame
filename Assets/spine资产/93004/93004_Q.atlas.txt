@@ -1,0 +1,279 @@
+
+93004_Q.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack
+  rotate: false
+  xy: 420, 214
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 126, 184
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 271, 216
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+coat_1
+  rotate: true
+  xy: 400, 207
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+coat_2
+  rotate: false
+  xy: 383, 182
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+coat_3
+  rotate: true
+  xy: 76, 25
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+coat_4
+  rotate: false
+  xy: 232, 153
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+coat_5
+  rotate: true
+  xy: 144, 19
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+dead
+  rotate: false
+  xy: 181, 157
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+dizzy
+  rotate: true
+  xy: 137, 93
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 343, 208
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+eyebrow_attack
+  rotate: false
+  xy: 326, 142
+  size: 51, 11
+  orig: 51, 11
+  offset: 0, 0
+  index: -1
+eyebrow_dead
+  rotate: false
+  xy: 130, 7
+  size: 51, 10
+  orig: 51, 10
+  offset: 0, 0
+  index: -1
+eyebrow_dizzy
+  rotate: false
+  xy: 130, 7
+  size: 51, 10
+  orig: 51, 10
+  offset: 0, 0
+  index: -1
+eyebrow_neardeath
+  rotate: false
+  xy: 130, 7
+  size: 51, 10
+  orig: 51, 10
+  offset: 0, 0
+  index: -1
+eyebrow_hit
+  rotate: true
+  xy: 230, 98
+  size: 53, 10
+  orig: 53, 10
+  offset: 0, 0
+  index: -1
+eyebrow_normal
+  rotate: true
+  xy: 126, 26
+  size: 57, 7
+  orig: 57, 7
+  offset: 0, 0
+  index: -1
+eyebrow_victory
+  rotate: true
+  xy: 135, 26
+  size: 57, 7
+  orig: 57, 7
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 180, 198
+  size: 24, 89
+  orig: 24, 89
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 343, 230
+  size: 24, 75
+  orig: 24, 75
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 180, 224
+  size: 30, 89
+  orig: 30, 89
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 97, 157
+  size: 27, 97
+  orig: 27, 97
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 76, 85
+  size: 20, 62
+  orig: 20, 62
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 149
+  size: 93, 105
+  orig: 93, 105
+  offset: 0, 0
+  index: -1
+hit
+  rotate: false
+  xy: 126, 145
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+left_arm_1
+  rotate: false
+  xy: 209, 95
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+left_arm_2
+  rotate: true
+  xy: 326, 155
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+left_leg_1
+  rotate: false
+  xy: 180, 94
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+left_leg_2
+  rotate: true
+  xy: 181, 135
+  size: 20, 45
+  orig: 20, 45
+  offset: 0, 0
+  index: -1
+neardeath
+  rotate: true
+  xy: 480, 197
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+normal
+  rotate: true
+  xy: 98, 85
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+right_arm_1
+  rotate: false
+  xy: 242, 119
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+right_arm_2
+  rotate: true
+  xy: 330, 181
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+right_leg_1
+  rotate: false
+  xy: 144, 51
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+right_leg_2
+  rotate: true
+  xy: 274, 151
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 24
+  size: 123, 44
+  orig: 123, 44
+  offset: 0, 0
+  index: -1
+victory
+  rotate: false
+  xy: 274, 184
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 2
+  size: 126, 20
+  orig: 126, 20
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: true
+  xy: 48, 24
+  size: 123, 26
+  orig: 123, 26
+  offset: 0, 0
+  index: -1

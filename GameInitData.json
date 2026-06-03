@@ -1,0 +1,29 @@
+﻿{
+  "giftData": [
+    {
+      "name": "小心心",
+      "replyVolume": 10
+    }
+  ],
+  "chanceOfHealing": {
+    "likeReplyProbability": 90,
+    "likeReplyValue": 1,
+    "BulletReplyProbability": 90,
+    "BulletReplyValue": 1
+  },
+  "gameConfiguration": {
+    "GhostAttackCount": 5,
+    "GhostMinAttack": 10,
+    "GhostMaxAttack": 50,
+    "DoorInitialHealth": 1000,
+    "ZombieRageAttack1": 1,
+    "ZombieRageAttack2": 1,
+    "ZombieRageAttack3": 1,
+    "LobbyWaitCountdown": 30,
+    "ExtraHealthPerPersonForDoor": 1,
+    "BaseNightEndCountdown": 30,
+    "ExtraNightDurationPerPerson": 1,
+    "MiniNpcCount": 5,
+    "MaxNpcCount": 10
+  }
+}

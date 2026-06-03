@@ -1,0 +1,41 @@
+# ==========Unity引擎缓存【全忽略，体积超大】==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Bb]uild/
+[Bb]uilds/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+ExportedObj/
+sysinfo.txt
+
+# ==========你的项目：抖音打包运行目录（整目录忽略）==========
+douyin/
+
+# ==========VS/Rider开发IDE文件==========
+.vs/
+.idea/
+*.sln
+*.csproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.mdb
+*.VC.db
+
+# ==========系统垃圾文件==========
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# ==========打包安装包、导出文件==========
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# ==========Addressables热更缓存产物==========
+[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
